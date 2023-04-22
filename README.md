@@ -3,7 +3,7 @@
 
 User authentication is an important feature for web applications, and implementing it can be a challenging task. 
 
-I recently started learning Ruby on rails and I spent more time that I wish to admit trying to customize the user authentication flow in some of my applications. Devise is a powerful authentication gem for Ruby on Rails, which comes with many prepackaged and useful tools to make life easy for  beginners like myself. 
+I recently started learning Ruby on rails and spent more time than I wish to admit trying to customize the user authentication flow that comes prepackaged with Devise, a powerful authentication gem for Ruby on Rails. With this simple tutorial, I hope to help other beginners like me avoid getting stuck in this task.
 
 _Disclaimer: I am still new to Rails therefore I would definitely not consider myself an expert on the topic. I just needed to implement user authentication for an application I was building and although there are many excellents tutorials out there, none of them had quite the information I was looking for. Through a rabbit hole of stack overflow articles and Youtube videos, I was able to achieve what I wanted, which is have a user login using their name, email address and password, a profile page they could edit and log out. I figured I would write down the step I followed in on place for other beginners like myself who may encounter the same issue. Feedback on the content I share is always welcome and appreciated! On that note, let's begin…_
 
