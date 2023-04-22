@@ -98,8 +98,10 @@ What it does: This allows us to tell Devise to use our custom controller (that w
 
 In your terminal, enter the following command:
 ```
- rails g devise:views and hit enter.
+ rails g devise:views 
 ```
+
+and hit enter.
 
 You should have a new folder called `devise` under `app/views`. In `views/devise/registrations/new.html.erb` make sure to add two additional text fields for the name and address attributes. Like so:
 
