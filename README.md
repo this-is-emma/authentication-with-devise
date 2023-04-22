@@ -9,7 +9,7 @@ _Disclaimer: I am still new to Rails therefore I would definitely not consider m
 
 **Prerequisite: Rails 7, devise 4.9.2.**
 
-Okay for the purpose of brevity I will assume you already have a rails app up and running with Devise installed. If not, no sweat! here is an excellent tutorial that will show step by step how to install Devise in your rails application. After following it, you should be able to access the sign in page by appending `/users/sign_in` to the landing page url, like so `http://localhost:3000/users/sign_in.` 
+Okay for the purpose of brevity I will assume you already have a rails app up and running with Devise installed. If not, no sweat! here is an [excellent tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-user-authentication-with-devise-in-a-rails-7-application) that will show step by step how to install Devise in your rails application. After following it, you should be able to access the sign in page by appending `/users/sign_in` to the landing page url, like so `http://localhost:3000/users/sign_in.` 
 
 
 ![Log in page](https://file%2B.vscode-resource.vscode-cdn.net/Users/sakatia/Desktop/blog/app/assets/images/Login%20.jpg?version%3D1682171453886)
